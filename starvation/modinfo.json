@@ -3,11 +3,11 @@
     "modid": "starvation",
     "name": "Starvation",
     "authors": [
-        "trollusk"
+        "Droneyars"
     ],
     "description": "Realistic replacement for the Vanilla hunger system, based on human physiology.",
-    "version": "1.0.7",
+    "version": "1.1.0",
     "dependencies": {
-        "game": "1.20.3"
+        "game": "1.22.0"
     }
 }
