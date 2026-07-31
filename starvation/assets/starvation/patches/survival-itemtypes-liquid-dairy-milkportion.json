@@ -1,9 +1,0 @@
-[
-  {
-    "op": "replace",
-    "path": "/attributes/waterTightContainerProps/nutritionPropsPerLitre/saturation",
-    "value": 1300,
-    "file": "game:itemtypes/liquid/dairy/milkportion.json",
-    "side": "Server"
-  }
-]
